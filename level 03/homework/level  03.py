@@ -1,0 +1,8 @@
+age = (4+7)
+firends = (10-9)
+birth = (2500-486)
+brothers_age = (2*8)
+sisters_age = (48/2)
+friends_age = (100-85)
+dogs_age = (4+5)
+dogs_age_in_dog_years = (9*7)
