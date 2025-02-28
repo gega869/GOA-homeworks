@@ -23,5 +23,9 @@ print(num4)
 
 #5
 
-5num = 'five'    #i dont undertsand why 5num is red but we have to use "" symbols not '' i think..
+5num = 'five'    #i dont undertsand why 5num is red but we have to use "" symbols not '' i think
+
+
+
+
 
